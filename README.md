@@ -4,16 +4,12 @@
 
 Tämä repo sisältää python ohjelmat ja opetusdatan mustikoiden ja puolukoiden tunnistamiseen ultralytics(YOLOv8) tekoälyn avulla.
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/JonneSaloranta/tekoaly-kappaleen-tunnistus/blob/main/predicted_video.mp4" type="video/mp4">
-</video>
-
 ## Käyttöohje
 
 1. Kloonaa tämä repo koneellesi
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/JonneSaloranta/tekoaly-kappaleen-tunnistus.git
 ```
 
 2. Luo virtuaaliympäristö ja asenna tarvittavat kirjastot
