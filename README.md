@@ -4,7 +4,7 @@
 
 Tämä repo sisältää python ohjelmat ja opetusdatan mustikoiden ja puolukoiden tunnistamiseen ultralytics(YOLOv8) tekoälyn avulla.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cgUFzw-SbsA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Demo](https://img.youtube.com/vi/cgUFzw-SbsA/0.jpg)](https://www.youtube.com/watch?v=cgUFzw-SbsA)
 
 ## Käyttöohje
 
